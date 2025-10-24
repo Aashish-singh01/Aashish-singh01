@@ -1,5 +1,9 @@
 # 💫 About Me:
-<br><br>Hi! I'm Ashish Singh.  <br><br>- ✅ **Already Learned:** HTML, CSS (including responsive design), JavaScript basics, functions, loops, arrays, objects, DOM manipulation, Git & GitHub.  <br>- 🚀 **Currently Learning:** Advanced JavaScript concepts, APIs, JSON, project-based JavaScript, Tailwind CSS, and building real-world web projects.  <br><br>I love **learning by building projects** and continuously improving my frontend development skills.<br>
+Hi! I'm Ashish Singh, a software developer eager to learn and build. I love problem-solving and am always exploring the latest in React, Tailwind, and AI. I'm also open to new opportunities.
+
+- ✅ Already Learned: HTML, CSS (including responsive design), JavaScript basics, functions, loops, arrays, objects, DOM manipulation, Git & GitHub.
+- 🚀 Currently Learning: Advanced JavaScript concepts, APIs, JSON, project-based JavaScript, Tailwind CSS, and building real-world web projects.
+I love learning by building projects and continuously improving my frontend development skills.
 
 
 ## 🌐 Socials:
